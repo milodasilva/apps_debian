@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+
+sudo apt-get -y install xorg \
+pulseaudio \
+pavucontrol \
+xclip \
+i3 \
+vlc \
+p7zip-full \
+chromium \
+git \
+
+# lxterminal \
+# python3-pip \
+# tmux \
+# scrot \
+# lm-sensors \
+# pcmanfm \
+# xarchiver \
+# xfce4-screenshooter \
+# xinput \
+# lxappearance \
+# arc-theme \
+# gcc \
+# g++ \
+# make \
+# software-properties-common \
+# build-essential \
+# ca-certificates \
+# network-manager \ 
+# htop \
+# curl 
